@@ -20,7 +20,7 @@ Estudiante del último año de la **Tecnicatura Superior en Desarrollo de Softwa
 
 ### 📌 Mis Proyectos Destacados
 
-* **CotizAI:** (https://github.com/Ignacio-r-2005/CotizAI.git) Sistema de gestión y automatización de cotizaciones con integración de IA.
+* **[CotizAI](https://github.com/Ignacio-r-2005/CotizAI):** Sistema de gestión y automatización de cotizaciones con integración de IA.
 * **Proyecto de Automatización:** En desarrollo / Próximamente integrado.
 
 📫 **Contacto:**
