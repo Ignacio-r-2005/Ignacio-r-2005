@@ -21,7 +21,7 @@ Estudiante del último año de la **Tecnicatura Superior en Desarrollo de Softwa
 ### 📌 Mis Proyectos Destacados
 
 * **[CotizAI](https://github.com/Ignacio-r-2005/CotizAI):** Sistema de gestión y automatización de cotizaciones con integración de IA.
-* **Proyecto de Automatización:** En desarrollo / Próximamente integrado.
+* **Gran Fortaleza (Proyecto de Automatizacion):** Sistema web de gestión de gimnasio bajo arquitectura MVC, patrones de diseño (Singleton, Decorator, Mediator)
 
 📫 **Contacto:**
 * 📧 Email: miguelrovere01@gmail.com
